@@ -1,0 +1,14 @@
+PS C:\Users\000154302> cd onedrive
+PS C:\Users\000154302\onedrive> cd dataviz2024
+PS C:\Users\000154302\onedrive\dataviz2024> cd UNC-VIRT-DATA-PT-06-2024-U-LOLC
+PS C:\Users\000154302\onedrive\dataviz2024\UNC-VIRT-DATA-PT-06-2024-U-LOLC> cd homework
+PS C:\Users\000154302\onedrive\dataviz2024\UNC-VIRT-DATA-PT-06-2024-U-LOLC\homework> cd Python-Challenge-
+PS C:\Users\000154302\onedrive\dataviz2024\UNC-VIRT-DATA-PT-06-2024-U-LOLC\homework\Python-Challenge-> cd PyBank
+PS C:\Users\000154302\onedrive\dataviz2024\UNC-VIRT-DATA-PT-06-2024-U-LOLC\homework\Python-Challenge-\PyBank> python main.py
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
